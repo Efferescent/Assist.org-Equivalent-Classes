@@ -1,5 +1,5 @@
 # Assist.org Equivalent Class Search
-This script leverages every articulation agreement available for a specified year on Assist.org, providing a comprehensive list of equivalent community college classes corresponding to a specific course at your college.
+This project leverages every articulation agreement available for a specified year on Assist.org, providing a comprehensive list of equivalent community college classes corresponding to a specific course at your college.
 
 #  Why
 At this current time, it's difficult to know all the equivalent community college class for a specific class at your college or community college. Under the current system, you would need to manually pull up every single PDF for each community college which can take up to several hours.
