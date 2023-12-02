@@ -17,7 +17,7 @@ At this current time, it's difficult to know all the equivalent community colleg
    
 Please note that all of these inputs are CASE SENSITIVE.
 
-Also, in the resulting data frame, there are duplicates of certain classes due to formatting issues in the API (i.e.   'CS  141' and 'CS 141' or 'ies' and 'y').
+Also, in the resulting data frame, there are duplicates of certain classes due to formatting issues in the API (i.e.   'CS__141' and 'CS_141' or 'ies' and 'y').
 
 #  Future Improvements
 1. Add what community college the course is located in the resulting data frame.
