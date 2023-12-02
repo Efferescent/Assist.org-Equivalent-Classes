@@ -6,7 +6,7 @@ At this current time, it's difficult to know all the equivalent community colleg
 
 #  Sample Resulting Output
 
-<img width="1352" alt="Screenshot 2023-12-01 at 5 11 26 PM" src="https://github.com/Efferescent/Assist.org-Equivalent-Classes/assets/152109516/75ad723d-5ab6-417a-8ef5-71482dcb4c52">
+<img width="807" alt="Screenshot 2023-12-01 at 5 22 07 PM" src="https://github.com/Efferescent/Assist.org-Equivalent-Classes/assets/152109516/e806f089-bdce-4632-a081-ecd6a6bc6af3">
 
 #  Important need to knows to use the code:
 1. Know your college 'code' (i.e. Cal Poly SLO is CPSLO)
@@ -20,7 +20,6 @@ Please note that all of these inputs are CASE SENSITIVE
 Also, in the resulting data frame, there are duplicates of certain classes due to formatting issues in the API (i.e. 'CS  141' and 'CS 141' or 'ies' and 'y')
 
 #  Future Improvements
-
 1. Add what community college the course is located in the resulting data frame.
 2. The current code takes 2 minutes to run. While, it still does save hours on time, improvements should be made to speed up the code.
 
