@@ -1,9 +1,6 @@
 # Assist.org Equivalent Class Search
 This project leverages every articulation agreement available for a specified year on Assist.org, providing a comprehensive list of equivalent community college classes corresponding to a specific course at your college.
 
-#  Why
-At this current time, it's difficult to know all the equivalent community college classes for a specific class at your college or community college. Under the current system, you would need to manually pull up every single PDF for each community college which can take up to several hours.
-
 #  Sample Resulting Output
 
 <img width="807" alt="Screenshot 2023-12-01 at 5 22 07 PM" src="https://github.com/Efferescent/Assist.org-Equivalent-Classes/assets/152109516/e806f089-bdce-4632-a081-ecd6a6bc6af3">
@@ -24,6 +21,9 @@ At this current time, it's difficult to know all the equivalent community colleg
 Please note that all of these inputs are CASE SENSITIVE.
 
 Also, in the resulting data frame, there are duplicates of certain classes due to formatting issues in the API (i.e.   'CS__141' and 'CS_141' or 'ies' and 'y').
+
+#  Why
+At this current time, it's difficult to know all the equivalent community college classes for a specific class at your college or community college. Under the current system, you would need to manually pull up every single PDF for each community college which can take up to several hours.
 
 #  Future Improvements
 1. Add what community college the course is located in the resulting data frame.
