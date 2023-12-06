@@ -12,8 +12,10 @@ At this current time, it's difficult to know all the equivalent community colleg
 1. Know your college 'code' (i.e. Cal Poly SLO is CPSLO).
 2. Know the major the class is under and input it in this format: UPPER_CASE_MAJOR, B.S.  
    For example: COMPUTER SCIENCE, B.S.
-3. Know the title, unit count, and if there is a 'same as' class of the class you want to take.
-4. Click on the calculator icon next to the data frame to see all of the classes.
+3. Know the class code, class code number, name, and unit count of the class you want to take.
+   For example: [(CSC 202 - Data Structures (4.00) -> Class Code: CSC -> Class Code Number: 202 -> Name: Data Structures -> Unit Count: (4.00)).
+4. Know if there is a 'same as' class for the class you want to take at your college. 
+5. Click on the calculator icon next to the data frame to see all of the classes.
    
 Please note that all of these inputs are CASE SENSITIVE.
 
