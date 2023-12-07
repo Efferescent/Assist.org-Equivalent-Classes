@@ -27,7 +27,7 @@ At this current time, it's difficult to know all the equivalent community colleg
 2. The current code takes 2 minutes to run. While, it still does save hours on time, improvements should be made to speed up the code.
 
 #  Acknowledgements
-User jacobtbigham has done something similar before using similar API's, however, what spurred me to create this script is for the functionality and ease of use. After trying to implement his code, errors prevented me from using its functionality.
+User jacobtbigham has done something similar before using similar API's, however, what spurred me to create this project is for the functionality and ease of use. After trying to implement his code, errors prevented me from using its functionality.
 
 #   Notes
 Code was created and tested on Google Colab. There is a possibility that this won't work on other text editors without modification. I would suggest changing the output directory. In Google Colab, the defult output directory is '.' For other text editors, creating a folder with the output specified to it would work.
