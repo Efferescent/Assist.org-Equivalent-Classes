@@ -15,8 +15,10 @@ This project leverages every articulation agreement available for a specified ye
    Class Code Number:     202                                    
    Name:                  Data Structures                                                   
    Unit Count:            (4.00)                                                   
-5. Know if there is a 'same as' class for the class you want to take at your college. 
-6. Click on the calculator icon next to the data frame to see all of the classes.
+5. Know if there is a 'same as' class for the class you want to take at your college.
+6. Know what year since 1950 your articulation is in.                                       
+   For example, 2023 is 73 (1950 + 73 = 2023).
+8. Click on the calculator icon next to the data frame to see all of the classes.
    
 Please note that all of these inputs are CASE SENSITIVE.
 
