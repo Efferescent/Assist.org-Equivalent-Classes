@@ -1,3 +1,6 @@
+# Assist.org Equivalent Class Search
+This project leverages every articulation agreement available for a specified year on Assist.org, providing a comprehensive list of equivalent community college classes corresponding to a specific course at your college.
+
 #  Sample Resulting Output
 
 <img width="807" alt="Screenshot 2023-12-01 at 5 22 07 PM" src="https://github.com/Efferescent/Assist.org-Equivalent-Classes/assets/152109516/e806f089-bdce-4632-a081-ecd6a6bc6af3">
