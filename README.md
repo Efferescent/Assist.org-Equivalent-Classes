@@ -1,5 +1,3 @@
-# Assist.org Equivalent Class Search
-
 #  Sample Resulting Output
 
 <img width="807" alt="Screenshot 2023-12-01 at 5 22 07 PM" src="https://github.com/Efferescent/Assist.org-Equivalent-Classes/assets/152109516/e806f089-bdce-4632-a081-ecd6a6bc6af3">
